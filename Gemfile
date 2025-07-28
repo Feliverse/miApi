@@ -37,7 +37,7 @@ gem "rack-cors"
 
 # use pg like database
 # This is a PostgreSQL database adapter for Active Record 
-gem "pg", "~> 1.4"
+gem "pg", "~> 1.6"
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
